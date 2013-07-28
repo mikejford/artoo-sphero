@@ -8,7 +8,7 @@ PATH
 GEM
   remote: http://rubygems.org/
   specs:
-    artoo (1.0.0.rc2)
+    artoo (1.0.0.rc3)
       celluloid (~> 0.14.1)
       celluloid-io (~> 0.14.1)
       multi_json (~> 1.6)
@@ -28,7 +28,7 @@ GEM
       http_parser.rb
     http_parser.rb (0.5.3)
     metaclass (0.0.1)
-    method_source (0.8.1)
+    method_source (0.8.2)
     minitest (5.0.6)
     minitest-happy (1.0.0)
     mocha (0.14.0)
