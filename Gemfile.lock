@@ -1,26 +1,26 @@
 PATH
   remote: .
   specs:
-    artoo-sphero (1.0.0.rc2)
-      artoo (~> 1.0.0.rc)
+    artoo-sphero (1.0.1)
+      artoo (~> 1.1.0)
       sphero (~> 1.4.1)
 
 GEM
   remote: http://rubygems.org/
   specs:
-    artoo (1.0.0.rc3)
-      celluloid (~> 0.14.1)
-      celluloid-io (~> 0.14.1)
+    artoo (1.1.0)
+      celluloid (~> 0.15.0)
+      celluloid-io (~> 0.15.0)
       multi_json (~> 1.6)
       pry (~> 0.9)
       rake (~> 10.0)
       reel (~> 0.4.0.pre)
       thor (~> 0.18.1)
-    celluloid (0.14.1)
-      timers (>= 1.0.0)
-    celluloid-io (0.14.1)
-      celluloid (>= 0.14.1)
-      nio4r (>= 0.4.5)
+    celluloid (0.15.0)
+      timers (~> 1.1.0)
+    celluloid-io (0.15.0)
+      celluloid (>= 0.15.0)
+      nio4r (>= 0.5.0)
     certified (0.1.1)
     coderay (1.0.9)
     http (0.4.0)
@@ -33,8 +33,8 @@ GEM
     minitest-happy (1.0.0)
     mocha (0.14.0)
       metaclass (~> 0.0.1)
-    multi_json (1.7.7)
-    nio4r (0.4.6)
+    multi_json (1.7.9)
+    nio4r (0.5.0)
     pry (0.9.12.2)
       coderay (~> 1.0.5)
       method_source (~> 0.8)
