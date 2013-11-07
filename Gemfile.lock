@@ -1,3 +1,9 @@
+GIT
+  remote: git://github.com/mikejford/sphero.git
+  revision: 76ab0f19c78b3cb80fa9f959045c3d852a8794ab
+  specs:
+    sphero (1.4.1.20130725165742)
+
 PATH
   remote: .
   specs:
@@ -60,3 +66,4 @@ DEPENDENCIES
   minitest (>= 5.0)
   minitest-happy
   mocha (>= 0.14.0)
+  sphero!
