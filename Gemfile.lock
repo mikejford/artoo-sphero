@@ -1,6 +1,6 @@
 GIT
   remote: git://github.com/mikejford/sphero.git
-  revision: 76ab0f19c78b3cb80fa9f959045c3d852a8794ab
+  revision: 64fbfcb30838fe9b800578411a916461ef6d5d87
   specs:
     sphero (1.4.1.20130725165742)
 
@@ -34,7 +34,7 @@ GEM
     http_parser.rb (0.6.0)
     metaclass (0.0.1)
     method_source (0.8.2)
-    minitest (5.0.6)
+    minitest (5.0.8)
     minitest-happy (1.0.0)
     mocha (0.14.0)
       metaclass (~> 0.0.1)
